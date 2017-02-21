@@ -1,0 +1,31 @@
+{
+  "name": "aclone",
+  "version": "1.0.0",
+  "description": "this is an ecommerce website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Team-White-Trident/AmazonClone-Abhishek-.git"
+  },
+  "author": "abhishekSaharn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Team-White-Trident/AmazonClone-Abhishek-/issues"
+  },
+  "homepage": "https://github.com/Team-White-Trident/AmazonClone-Abhishek-#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.16.1",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.6",
+    "ejs-mate": "^2.3.0",
+    "express": "^4.14.1",
+    "express-flash": "0.0.2",
+    "express-session": "^1.15.1",
+    "mongoose": "^4.8.3",
+    "morgan": "^1.8.1"
+  }
+}
